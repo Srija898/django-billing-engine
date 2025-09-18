@@ -1,0 +1,38 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Django specific
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+*.env
+.env.*
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+*.pid
+*.seed
+*.bak
