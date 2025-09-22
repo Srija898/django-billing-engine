@@ -19,3 +19,9 @@ media/
 # IDEs
 .vscode/
 .idea/
+
+.env
+
+.env.example
+
+.env
